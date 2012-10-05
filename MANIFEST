@@ -8,5 +8,6 @@ README
 dist.ini
 lib/Gapp/App.pm
 lib/Gapp/App/Debug.pm
-lib/Gapp/Widget/Trait/HasApp.pm
+lib/Gapp/App/Widget/Roles/HasApp.pm
+lib/Gapp/App/Widget/Traits/HasApp.pm
 t/001_debug.pl

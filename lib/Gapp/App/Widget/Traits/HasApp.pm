@@ -1,6 +1,6 @@
-package Gapp::App::Widget::Trait::HasApp;
+package Gapp::App::Widget::Traits::HasApp;
 {
-  $Gapp::App::Widget::Trait::HasApp::VERSION = '0.001'; # TRIAL
+  $Gapp::App::Widget::Traits::HasApp::VERSION = '0.002'; # TRIAL
 }
 
 use Moose::Role;
@@ -15,7 +15,7 @@ has 'app' => (
 
 package Gapp::Meta::Widget::Custom::Trait::HasApp;
 {
-  $Gapp::Meta::Widget::Custom::Trait::HasApp::VERSION = '0.001'; # TRIAL
+  $Gapp::Meta::Widget::Custom::Trait::HasApp::VERSION = '0.002'; # TRIAL
 }
 sub register_implementation { 'Gapp::Meta::Widget::Native::Trait::HasApp' };
 
