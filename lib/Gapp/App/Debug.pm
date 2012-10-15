@@ -1,6 +1,6 @@
 package Gapp::App::Debug;
 {
-  $Gapp::App::Debug::VERSION = '0.002'; # TRIAL
+  $Gapp::App::Debug::VERSION = '0.006';
 }
 
 use Moose;
@@ -64,9 +64,5 @@ Jeffrey Ray Hallock E<lt>jeffrey.hallock at gmail dot comE<gt>
     This program is free software; you can redistribute it and/or
     modify it under the same terms as Perl itself.
     
-    Individual packages in this module may have have multiple copyrights and
-    licenses. Please refer to the documentation of indivdual packages for more
-    information. (see L<Gapp::Actions>, L<Gapp::TableMap>)
-
 =cut
 

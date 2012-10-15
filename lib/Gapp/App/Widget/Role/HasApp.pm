@@ -1,6 +1,6 @@
-package Gapp::App::Widget::Roles::HasApp;
+package Gapp::App::Widget::Role::HasApp;
 {
-  $Gapp::App::Widget::Roles::HasApp::VERSION = '0.002'; # TRIAL
+  $Gapp::App::Widget::Role::HasApp::VERSION = '0.006';
 }
 
 use Moose::Role;
@@ -22,7 +22,7 @@ __END__
 
 =head1 NAME
 
-Gapp::App::Widget::Roles::HasApp - Provides app attribute
+Gapp::App::Widget::Role::HasApp - Provides app attribute
 
 =head1 DESCRIPTION
 
