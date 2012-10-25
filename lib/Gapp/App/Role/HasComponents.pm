@@ -1,6 +1,6 @@
 package Gapp::App::Role::HasComponents;
 {
-  $Gapp::App::Role::HasComponents::VERSION = '0.006';
+  $Gapp::App::Role::HasComponents::VERSION = '0.222';
 }
 
 use Moose::Role;

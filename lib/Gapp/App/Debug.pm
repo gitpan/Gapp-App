@@ -1,6 +1,6 @@
 package Gapp::App::Debug;
 {
-  $Gapp::App::Debug::VERSION = '0.006';
+  $Gapp::App::Debug::VERSION = '0.222';
 }
 
 use Moose;

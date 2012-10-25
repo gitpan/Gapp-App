@@ -1,6 +1,6 @@
 package Gapp::App::Plugin;
 {
-  $Gapp::App::Plugin::VERSION = '0.006';
+  $Gapp::App::Plugin::VERSION = '0.222';
 }
 
 use Moose;

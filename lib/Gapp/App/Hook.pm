@@ -1,6 +1,6 @@
 package Gapp::App::Hook;
 {
-  $Gapp::App::Hook::VERSION = '0.006';
+  $Gapp::App::Hook::VERSION = '0.222';
 }
 
 use Moose;

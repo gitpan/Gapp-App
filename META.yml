@@ -14,4 +14,4 @@ meta-spec:
 name: Gapp-App
 requires:
   Gapp: 0
-version: 0.006
+version: 0.222
