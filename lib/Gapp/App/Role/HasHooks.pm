@@ -1,6 +1,6 @@
 package Gapp::App::Role::HasHooks;
 {
-  $Gapp::App::Role::HasHooks::VERSION = '0.222';
+  $Gapp::App::Role::HasHooks::VERSION = '0.007';
 }
 
 use Moose::Role;

@@ -1,6 +1,6 @@
 package Gapp::App::Role::HasApp;
 {
-  $Gapp::App::Role::HasApp::VERSION = '0.222';
+  $Gapp::App::Role::HasApp::VERSION = '0.007';
 }
 
 use Moose::Role;

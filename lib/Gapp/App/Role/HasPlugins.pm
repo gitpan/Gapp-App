@@ -1,6 +1,6 @@
 package Gapp::App::Role::HasPlugins;
 {
-  $Gapp::App::Role::HasPlugins::VERSION = '0.222';
+  $Gapp::App::Role::HasPlugins::VERSION = '0.007';
 }
 
 use Moose::Role;
